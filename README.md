@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @riteshkhande2676
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning  react js , python , 
+                                                Hi, my self is ritesh khande
+- 
+- I’m interested in software devolopment engineering 
+- 
+- 🌱 my SKILLS are- C/C++ , JAVA , HTML ,CSS , JAVASCRIPT , NODEJS , SQL , OPERATING SYSTEM , DBMS , SQL. 
+- 
 - 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me ... riteshkhande2676@gmail.com
-
-<!---
-riteshkhande2676/riteshkhande2676 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

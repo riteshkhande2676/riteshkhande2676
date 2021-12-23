@@ -1,9 +1,9 @@
-                                                Hi, my self is RITESH KHANDE- 
+                                                Hey !  my self is RITESH KHANDE- 
                                                 
                                                 
-- I’m interested in SOFTWARE DEVELOPMENT ENGINEERING AND FULL STACK DEVELOPMENT.
+- I’m interested in SOFTWARE DEVELOPMENT ENGINEERING.
 - 
-- 🌱 my SKILLS are- C/C++ , JAVA , HTML ,CSS , JAVASCRIPT , NODEJS , SQL , OPERATING SYSTEM , DBMS , SQL , GIT .
+- 🌱 my SKILLS are- JAVA , SQL , OPERATING SYSTEM , DBMS , SQL, DataStructure and algorithm ,   HTML ,CSS , JAVASCRIPT , NODEJS. 
 - 
 - 💞️ I’m looking to collaborate on ...
 - 

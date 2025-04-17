@@ -1,7 +1,7 @@
                                                 Hey !  My Name is RITESH KHANDE- 
                                                 
                                                 
-- I’m interested in SOFTWARE DEVELOPMENT.
+- I’m interested in  Devops profile
 
 - my SKILLS are- JAVA , SQL , OPERATING SYSTEM , DBMS , SQL, DataStructure and algorithm ,   HTML ,CSS , JAVASCRIPT , NODEJS. 
 

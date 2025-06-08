@@ -1,5 +1,5 @@
 👋 Hi, I'm Ritesh Khande
-💼 System Engineer | DevOps Enthusiast | 2 Years at STL | cuurenting looking a devops profile
+DevOps Enthusiast | 2 Years at STL | cuurenting looking a devops profile
 
 I'm a passionate System Engineer with 2 years of professional experience at STL (Sterlite Technologies Ltd.). My core interest lies in DevOps, automation, and streamlining development workflows for efficient software delivery.
 
